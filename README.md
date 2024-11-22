@@ -1,4 +1,4 @@
-![Local Image](images\cover_image.jpg)
+![Local Image](images/cover_image.jpg)
 # NTSB-Aviation-Accidents-Analysis
 ---
 **Author**: Roy Njuguna
