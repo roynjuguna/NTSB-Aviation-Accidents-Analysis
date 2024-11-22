@@ -141,5 +141,22 @@ Focus on regions with higher accident rates (e.g., California,
 Florida, Texas) to implement targeted safety measures,
 reducing risks in high-risk areas.
 
-## For More Information
+## **For More Information**
 ---
+Access the tableau dashboard using this [Tableau Link](https://public.tableau.com/views/NTSBAviationAccidentsAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+See the full analysis in the Jupyter Notebook or review this presentation.
+
+For additional info, contact Roy Njuguna at roynjuguna222@gmail.com
+
+## **Repository Structure**
+|── data
+
+├── images
+
+├── README.md
+
+├── NTSB-Aviation-Accidents-Analysis-Presentation.pdf
+
+└── NTSB-Aviation-Accidents-Analysis.ipynb
