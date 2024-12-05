@@ -30,7 +30,7 @@ decision-making process for purchasing aircraft. This will
 support the new aviation division in making informed and
 strategic choices as they enter the market.
 
-## **Data**
+## **Data and Methods**
 ---
 ● Data Source: The analysis utilized the Aviation Accident
 Database & Synopses, covering aviation incidents up to 2023.
@@ -43,8 +43,7 @@ fatalities to assess accident trends and risks.
 visualization techniques were applied to identify patterns and
 inform risk assessment for aircraft selection.
 
-## **Methods**
----
+
 
 ## **Results**
 ---
@@ -145,8 +144,7 @@ reducing risks in high-risk areas.
 ---
 Access the tableau dashboard using this [Tableau Link](https://public.tableau.com/views/NTSBAviationAccidentsAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-
-See the full analysis in the Jupyter Notebook or review this presentation.
+See the full analysis in the [jupyter notebook](./Aviation_Accidents_Analysis.ipynb) or review this [Presentation](./presentation.pdf).
 
 For additional info, contact Roy Njuguna at roynjuguna222@gmail.com
 
@@ -160,3 +158,4 @@ For additional info, contact Roy Njuguna at roynjuguna222@gmail.com
 ├── NTSB-Aviation-Accidents-Analysis-Presentation.pdf
 
 └── NTSB-Aviation-Accidents-Analysis.ipynb
+
